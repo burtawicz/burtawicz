@@ -21,6 +21,7 @@ I - am a software engineer; love puzzles, patterns, and building things; have be
 
 <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white&color=ff5714"/>
 
+<br />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&color=264653"/>
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=648de5"/>
@@ -32,6 +33,8 @@ I - am a software engineer; love puzzles, patterns, and building things; have be
 <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white&color=f4a261"/>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=ff5714"/>
+
+<br />
 
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white&color=264653"/>
 
