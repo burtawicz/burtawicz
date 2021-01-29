@@ -5,8 +5,10 @@
 I - am a software engineer; love puzzles, patterns, and building things; have been obsessed with computers and AGI since I was a kid. There's an indescribable sense of fulfillment that comes from solving a challenging puzzle, recognizing an abstract pattern, or combining raw elements and imagination into something that can better the lives of others. For the last 8+ years I've been helping organizations obtain that sense of fulfillment by designing resilient systems and developing scalable solutions to complex problems.
 
 ## Connect with me
-[![Gmail Badge](https://img.shields.io/badge/-rick@rickburta.ca-c14438?style=flat&logo=protonmail&logoColor=white&link=mailto:rick@rickburta.ca)](mailto:rick@rickburta.ca) 
-[![Linkedin Badge](https://img.shields.io/badge/-rickburta-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickburta/)](https://www.linkedin.com/in/rickburta/) [![Github Badge](https://img.shields.io/badge/-burtawicz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/burtawicz/)](https://www.github.com/burtawicz/) 
+[![Gmail Badge](https://img.shields.io/badge/-rick@rickburta.ca-c14438?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:rick@rickburta.ca)](mailto:rick@rickburta.ca) 
+[![Linkedin Badge](https://img.shields.io/badge/-rickburta-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickburta/)](https://www.linkedin.com/in/rickburta/) 
+[![Github Badge](https://img.shields.io/badge/-burtawicz-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/burtawicz/)](https://www.github.com/burtawicz/) 
+[![Keybase Badge](https://img.shields.io/badge/-burtawicz-33A0FF?style=for-the-badge&logo=keybase&logoColor=white&link=https://keybase.io/burtawicz)](https://keybase.io/burtawicz) 
 
 ## :hammer_and_wrench: Technologies & Tools
 <div class="col">
