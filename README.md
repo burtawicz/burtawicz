@@ -9,6 +9,8 @@ I - am a software engineer; love puzzles, patterns, and building things; have be
 [![Linkedin Badge](https://img.shields.io/badge/-rickburta-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickburta/)](https://www.linkedin.com/in/rickburta/) [![Github Badge](https://img.shields.io/badge/-burtawicz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/burtawicz/)](https://www.github.com/burtawicz/) 
 
 ## :hammer_and_wrench: Technologies & Tools
+<div class="col">
+<div class="row">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=264653"/>
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&color=648de5"/>
@@ -20,8 +22,9 @@ I - am a software engineer; love puzzles, patterns, and building things; have be
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white&color=f4a261"/>
 
 <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white&color=ff5714"/>
+</div>
+</div>
 
-<br />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&color=264653"/>
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=648de5"/>
