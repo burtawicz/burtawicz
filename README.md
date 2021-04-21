@@ -1,49 +1,115 @@
-<h1 align="center">
-    <img src="./banner.png" alt="Rick Burta">
-</h1>
+# Rick Burta
 
-I - am a software engineer; love puzzles, patterns, and building things; have been obsessed with computers and AGI since I was a kid. There's an indescribable sense of fulfillment that comes from solving a challenging puzzle, recognizing an abstract pattern, or combining raw elements and imagination into something that can better the lives of others. For the last 8+ years I've been helping organizations obtain that sense of fulfillment by designing resilient systems and developing scalable solutions to complex problems.
+I - am a software engineer; love puzzles, patterns, and building things; have been obsessed with computers and AGI since I was a child. There's an indescribable sense of fulfillment that comes from solving a challenging puzzle, recognizing an abstract pattern, or combining raw elements and imagination into something that can better the lives of others. For the last 8+ years I've been helping organizations obtain that sense of fulfillment by designing resilient systems and developing scalable solutions to complex problems. 
 
-## Connect with me
-[![Gmail Badge](https://img.shields.io/badge/-rick@rickburta.ca-c14438?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:rick@rickburta.ca)](mailto:rick@rickburta.ca) 
-[![Linkedin Badge](https://img.shields.io/badge/-rickburta-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickburta/)](https://www.linkedin.com/in/rickburta/) 
-[![Github Badge](https://img.shields.io/badge/-burtawicz-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/burtawicz/)](https://www.github.com/burtawicz/) 
-[![Keybase Badge](https://img.shields.io/badge/-burtawicz-33A0FF?style=for-the-badge&logo=keybase&logoColor=white&link=https://keybase.io/burtawicz)](https://keybase.io/burtawicz) 
+## :iphone: Get in touch
+```python
+email = "rick@rickburta.ca"
+linked_in = "https://linkedin.com/in/rickburta"
+keybase = "https://keybase.io/burtawicz"
+```
 
 ## :hammer_and_wrench: Technologies & Tools
-<div class="col">
-<div class="row">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=264653"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&color=648de5"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white&color=2a9d8f"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=e9c46a"/>
-<img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white&color=f4a261"/>
-<img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white&color=ff5714"/>
-</div>
-<div class="row">
-<img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&color=264653"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=648de5"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/mongo-%23316192.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=2a9d8f"/>
-<img alt="Neo4j" src="https://img.shields.io/badge/neo4j-%23316192.svg?&style=for-the-badge&logo=neo4j&logoColor=white&color=e9c46a"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white&color=f4a261"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=ff5714"/>
-</div>
-<div class="row">
-<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white&color=264653"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&color=648de5"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white&color=2a9d8f" />
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%23F37626.svg?&style=for-the-badge&logo=docker&logoColor=white&color=e9c46a"/>
-<img alt="AWS" src="https://img.shields.io/badge/aws%20-%23000.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white&color=f4a261"/>
-<img alt="Grafana" src="https://img.shields.io/badge/grafana%20-%2343853D.svg?&style=for-the-badge&logo=grafana&logoColor=white&color=ff5714"/>
-</div>
-</div>
+```rust
+struct ProgrammingLanguage {
+    name: String,
+    years_of_professional_use: f64,
+    years_of_personal_use: f64,
+    preference: i8
+}
 
-## Interests
-* AGI :alembic:
-* Basketball :basketball:
-* Chess :chess_pawn:
-* Mathematics :abacus:
-* Patterns :brain:
-* Puzzles :jigsaw:
-* Robotics :robot:
+impl ProgrammingLanguage {
+    pub fn enjoyment(&self) -> String {
+        format!(
+            "On a scale of 1/10, I enjoy writing code using {} as {}/10.", 
+            self.name, self.preference
+        )
+    }
+}
 
+let languages = [
+    ProgrammingLanguage {
+        name: String::from("Python"),
+        years_of_professional_use: 11.0,
+        years_of_personal_use: 8.0,
+        preference: 9
+    },
+    ProgrammingLanguage {
+        name: String::from("Java"),
+        years_of_professional_use: 6.0,
+        years_of_personal_use: 6.5,
+        preference: 7
+    },
+    ProgrammingLanguage {
+        name: String::from("Rust"),
+        years_of_professional_use: 0.0,
+        years_of_personal_use: 0.5,
+        preference: 10
+    },
+    ProgrammingLanguage {
+        name: String::from("Swift"),
+        years_of_professional_use: 2.5,
+        years_of_personal_use: 3.5,
+        preference: 8
+    },
+    ProgrammingLanguage {
+        name: String::from("C++"),
+        years_of_professional_use: 3.0,
+        years_of_personal_use: 7.0,
+        preference: 5
+    },
+    ProgrammingLanguage {
+        name: String::from("JavaScript"),
+        years_of_professional_use: 8.0,
+        years_of_personal_use: 11.5,
+        preference: 4
+    },
+    ProgrammingLanguage {
+        name: String::from("PHP"),
+        years_of_professional_use: 8.0,
+        years_of_personal_use: 11.0,
+        preference: -10
+    }
+];
+```
+
+```javascript
+const technologies = [
+    "PostgreSQL",
+    "MongoDB",
+    "Neo4J",
+    "Flask",
+    "Node.js",
+    "NGINX",
+    "git",
+    "Jupyter",
+    "Docker",
+    "AWS",
+    "Grafana"
+];
+```
+
+## :brain: Interests
+```swift
+func getInterests() -> InterestTreeNode {
+    return InterestTreeNode(
+        data: "Maths", 
+        children: [
+            InterestTreeNode(
+                data: "Patterns",
+                children: [
+                    InterestTreeNode(data: "Puzzles"),
+                    InterestTreeNode(data: "Chess"),
+                    InterestTreeNode(data: "Basketball")
+                ]
+            ),
+            InterestTreeNode(
+                data: "AGI",
+                children: [
+                    InterestTreeNode(data: "Robots")
+                ]
+            )
+        ]
+    )
+}
+```
