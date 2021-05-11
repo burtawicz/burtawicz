@@ -30,8 +30,8 @@ impl ProgrammingLanguage {
 let languages = [
     ProgrammingLanguage {
         name: String::from("Python"),
-        years_of_professional_use: 11.0,
-        years_of_personal_use: 8.0,
+        years_of_professional_use: 8.5,
+        years_of_personal_use: 11.0,
         preference: 9
     },
     ProgrammingLanguage {
@@ -66,7 +66,7 @@ let languages = [
     },
     ProgrammingLanguage {
         name: String::from("PHP"),
-        years_of_professional_use: 8.0,
+        years_of_professional_use: 8.5,
         years_of_personal_use: 11.0,
         preference: -10
     }
